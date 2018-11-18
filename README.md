@@ -11,7 +11,7 @@
 
 # Limit 
 1.Sequence (1.Importer approval 2.Exporter approval 3.Bank approval 4.LC complete )
-2.PaybeforeShippment+PayAfterShippment = 
+2.PaybeforeShippment+PayAfterShippment = Price
 
 # Quick Test on Remix ide without download any file
 1.Open [Remix ide]( https://ethereum.github.io/browser-solidity/#optimize=false) in your browser
