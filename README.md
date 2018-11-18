@@ -37,6 +37,7 @@
 
 # Dispute Process
 1.When the dispute happened, importer and Exporter can click disput function.
+
 2.After dispute function being called, Bank will gain the permission to controll the balance on contract, 
 Bank will be able to use arbitrate funtion to transfer money to Importer or Exporter  according to the result of arbitrate.
 
