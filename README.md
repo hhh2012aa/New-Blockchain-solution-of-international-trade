@@ -1,6 +1,7 @@
 # New Blockchain solution of international trade
 
 # Description
+![image](55564/44834455_1217049235110214_847730508761661440_n.png)
 
 1.Abandon letter of credit and manage payment through smart contract
 2.Work on Ethereum (Solidity)
