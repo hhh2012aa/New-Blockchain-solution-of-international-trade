@@ -12,7 +12,7 @@
 
 # Limit 
 1.Sequence (1.Importer approval 2.Exporter approval 3.Bank approval 4.LC complete )
-2.PaybeforeShippment+PayAfterShippment = Price
+2.PaybeforeShippment+PayAfterShippment should be equal to Price
 
 # Quick Test on Remix ide without download any file
 1.Open [Remix ide]( https://ethereum.github.io/browser-solidity/#optimize=false) in your browser
@@ -31,11 +31,11 @@
 
 8.Click LC approval in order (Importer -> Exporter -> Bank).
 
-9.When sequence = 4 , contract will lock then Importer can use Pay funciton to Pay deposit.
+9.After getting 3 parties approval (sequence = 4) , contract will lock then Importer can use Pay funciton to Pay deposit.
 
 10.When Balance = PaybeforeShippment, boolDeposit will be True and Exporter can click shipment function.
 
-11.When good arrive importer port, impoerter should pay the rest of payment before receiving goods(PayAfterShippment).
+11.After good arrive importer port, impoerter should pay the rest of payment before receiving goods(PayAfterShippment).
 
 12.After Importer receiving goods and cofirming, clock finish function and the payment will be transferred to Exporter's account.
 
