@@ -1,10 +1,12 @@
 # New Blockchain solution of international trade
 
-# Description
-![image](https://github.com/hhh2012aa/55564/blob/master/44834455_1217049235110214_847730508761661440_n.png?raw=true)
+![image](https://github.com/hhh2012aa/55564/blob/master/44834455_1217049235110214_847730508761661440_n.png?raw=true) 
 
-1.Abandon letter of credit and manage payment through smart contract
-2.Work on Ethereum (Solidity)
+#Description
+1.Abandon letter of credit and manage payment through smart contract.
+
+2.Work on Ethereum (Solidity).
+
 3.Remember to switch the account when simulating differnent identity. 
 
 # Limit 
