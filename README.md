@@ -22,7 +22,7 @@
 # Quick Test on Remix ide without download any file
 1.Open [Remix ide]( https://ethereum.github.io/browser-solidity/#optimize=false) in your browser
 
-2.Create a on Remix new .sol file and paste [BlockchainSolution](https://gist.githubusercontent.com/hhh2012aa/b72338cdbb2949a764acdad4ca2682a8/raw/b0382080907d8ed829aac26e4c5f2e5161684dc9/BlockchainSolution1114.sol) 
+2.Create a new .sol file on Remix and paste [BlockchainSolution](https://gist.githubusercontent.com/hhh2012aa/b72338cdbb2949a764acdad4ca2682a8/raw/b0382080907d8ed829aac26e4c5f2e5161684dc9/BlockchainSolution1114.sol) 
 
 3.Compile the contract.
 
