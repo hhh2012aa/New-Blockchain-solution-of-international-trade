@@ -1,6 +1,8 @@
 # New Blockchain solution of international trade
 
-![image](https://github.com/hhh2012aa/55564/blob/master/44834455_1217049235110214_847730508761661440_n.png?raw=true) 
+![image](https://github.com/hhh2012aa/55564/blob/master/44834455_1217049235110214_847730508761661440_n.png?raw=true) ![image](https://github.com/hhh2012aa/55564/blob/master/123456.png?raw=true) 
+       
+      
 
 # Description
 
