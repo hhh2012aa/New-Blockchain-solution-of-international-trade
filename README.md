@@ -12,6 +12,8 @@
 
 3.Remember to switch the account when simulating differnent identity. 
 
+4.[Quorum](https://github.com/jpmorganchase/quorum) is based on Ethereum provides the feature of private contract, it is the most suitable blockchain platform to run on. 
+
 # Limit 
 1.Sequence (1.Importer approval 2.Exporter approval 3.Bank approval 4.LC complete )
 2.PaybeforeShippment+PayAfterShippment should be equal to Price
@@ -46,5 +48,11 @@
 
 2.After dispute function being called, Bank will gain the permission to controll the balance on contract, 
 Bank will be able to use arbitrate funtion to transfer money to Importer or Exporter  according to the result of arbitrate.
+
+# Future Work
+1.Web UI (in the process)
+
+2.Add the rest of detail to build a full-featured platform.
+
 
 
