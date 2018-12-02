@@ -1,4 +1,4 @@
-pragma solidity ^0.4.24;
+pragma solidity ^0.4.23;
 contract SaleContract{
     address applicant = msg.sender;
     
@@ -31,7 +31,7 @@ contract SaleContract{
     
     
     
-    constructor (address _importer, address _exporter, address _bank )        // 建構子 發布合約時要同時設定這三個address
+   constructor  (address _importer, address _exporter, address _bank )        // 建構子 發布合約時要同時設定這三個address
     {
     addr_Buyer = _importer;
     addr_Seller = _exporter;
