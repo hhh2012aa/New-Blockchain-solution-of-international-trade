@@ -9,7 +9,7 @@ contract SaleContract{
     address addr_Seller;
     uint Price;
     uint TotalValue;
-    uint8 timeOfShipment;
+    uint timeOfShipment;
     string PortOfLanding; 
     string PortOfDest; 
     string PayDetail;
@@ -76,7 +76,7 @@ contract SaleContract{
     }
     
     
-    function setInform ( string _Buyer , string _Seller ,  uint _Price  , uint8 _timeOfShipment  
+    function setInform ( string _Buyer , string _Seller ,  uint _Price  , uint _timeOfShipment  
     , string _PortOfLanding , string _PortOfDest , string _PayDetail ,uint _PayBeforeShipment , uint _PayAfterShipment )   lockAll IsUser returns (address)
     {   require(_PayAfterShipment + _PayBeforeShipment == _Price);
         EditTimes++;
@@ -91,7 +91,7 @@ contract SaleContract{
    
     
     
-    function output() returns (string , string ,  uint , uint8 , string  , string , string ,uint , uint)
+    function output() returns (string , string ,  uint , uint , string  , string , string ,uint , uint)
     {
         return (Buyer , Seller ,   Price , timeOfShipment , PortOfLanding , PortOfDest , PayDetail , PayBeforeShipment , PayAfterShipment);
     }
