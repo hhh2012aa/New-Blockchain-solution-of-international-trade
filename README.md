@@ -51,7 +51,7 @@
 Bank will be able to use arbitrate funtion to transfer money to Importer or Exporter  according to the result of arbitrate.
 
 # Future Work
-1.Web UI (in the process)
+1.Python GUI (in the process)
 
 2.Add the rest of detail to build a full-featured platform.
 
