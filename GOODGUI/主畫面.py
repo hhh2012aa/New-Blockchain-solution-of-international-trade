@@ -186,12 +186,16 @@ class secondpage():
 
         #button
         bt_Show=tk.Button(win,text="顯示目前合約資訊",font=('微軟正黑體 bold',16),fg='gray10',bg='spring green',command = OutputInform)
-        bt_Show.place(x=735,y=70,width=300,height=40,anchor=N)
+        bt_Show.place(x=735,y=80,width=300,height=40,anchor=N)
 
         #label
     
         ShowContract=Label(win,font=('微軟正黑體 bold',20),bg='steel blue')
         ShowContract.place(x=735,y=140,width=445,height=600,anchor=N)
+
+        MyaddrText = "目前使用者為:"+ w3.eth.defaultAccount
+        Myaddr = Label(win,anchor=W,justify='left',bg='orange2',font=('微軟正黑體 bold',14), text = MyaddrText)
+        Myaddr.place(x=735,y=30,width=445,height=40,anchor=N)
 
         win.mainloop()
 
