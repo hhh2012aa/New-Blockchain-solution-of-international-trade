@@ -40,7 +40,7 @@
 
 10.When Balance = PaybeforeShippment, boolDeposit will be True and Exporter can click shipment function.
 
-11.After good arrive importer port, impoerter should pay the rest of payment before receiving goods(PayAfterShippment).
+11.After good arrive importer port, importer should pay the rest of payment before receiving goods(PayAfterShippment).
 
 12.After Importer receiving goods and cofirming, clock finish function and the payment will be transferred to Exporter's account.
 
