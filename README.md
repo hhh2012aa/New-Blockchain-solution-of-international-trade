@@ -14,7 +14,7 @@
 
 4. Remember to switch the account when simulating with differnent identities. 
 
-5.[Quorum](https://github.com/jpmorganchase/quorum) is based on Ethereum provides the feature of private contract, it is the most suitable blockchain platform to run on. 
+ 5.[Quorum](https://github.com/jpmorganchase/quorum) is based on Ethereum provides the feature of private contract, it is the most suitable blockchain platform to run on. 
 
 # Limit 
 1.Sequence (1.Importer approval 2.Exporter approval 3.Bank approval 4.LC complete )
