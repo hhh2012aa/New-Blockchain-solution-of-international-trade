@@ -8,10 +8,11 @@
 
 1. Replace Letter of Credit (L/C) with smart contract to manage transaction payments.
 
-2. Smart contract programming language: Solidity
-   Blockchain platform: Ethereum
+2. Smart contract programming language: Solidity.
 
-3.Remember to switch the account when simulating differnent identity. 
+3. Blockchain platform: Ethereum.
+
+4. Remember to switch the account when simulating with differnent identities. 
 
 4.[Quorum](https://github.com/jpmorganchase/quorum) is based on Ethereum provides the feature of private contract, it is the most suitable blockchain platform to run on. 
 
