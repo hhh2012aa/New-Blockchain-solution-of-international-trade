@@ -6,9 +6,10 @@
 
 # Description
 
-1.Abandon letter of credit and manage payment through smart contract.
+1. Replace Letter of Credit (L/C) with smart contract to manage transaction payments.
 
-2.Work on Ethereum (Solidity).
+2. Smart contract programming language: Solidity
+   Blockchain platform: Ethereum
 
 3.Remember to switch the account when simulating differnent identity. 
 
