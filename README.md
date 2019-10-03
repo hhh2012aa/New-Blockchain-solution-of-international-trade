@@ -17,7 +17,7 @@
 5. [Quorum](https://github.com/jpmorganchase/quorum) is a Ethereum-based platform, which allows user to assign specific accounts to view the information or use the functions of contract before the contract is deployed.
 
 # Certification Mechanism
-1. Sequence (1.Importer approval 2.Exporter approval 3.Bank approval 4.LC complete )
+1. Sequence of contract certification (1.Importer approval -> 2.Exporter approval -> 3.Bank approval -> 4.LC complete )
 
 2. PaybeforeShippment+PayAfterShippment should be equal to Price
 
