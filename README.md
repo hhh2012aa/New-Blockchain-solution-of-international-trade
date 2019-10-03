@@ -20,7 +20,7 @@
 1. Sequence of contract certification (1.Importer approval -> 2.Exporter approval -> 3.Bank approval -> 4.LC complete )
 
 2. Automatic Reconciliation System
-The payment (PaybeforeShippment+PayAfterShippment) should be equal to contract price so that the contract will be certificated.
+       The payment (PaybeforeShippment+PayAfterShippment) should be equal to contract price so that the contract will be certificated.
 
 # Quick Test on Remix ide without downloading any file
 1. Open [Remix ide]( https://ethereum.github.io/browser-solidity/#optimize=false) in your browser
