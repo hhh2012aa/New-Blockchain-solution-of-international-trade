@@ -114,7 +114,7 @@ contract SaleContract{
      
     function LcApproval()  lockAll seq{           //照順序驗證合約的函式
         sequence++;
-        if (sequence >=4){
+        if (sequence == 4){
             lock_all=true;
         }
     } 
